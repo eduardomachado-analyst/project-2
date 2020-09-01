@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" width="100">
 
-# Project | Shark attack
+# Project | Shark attacks
 
 ## Introduction
 
