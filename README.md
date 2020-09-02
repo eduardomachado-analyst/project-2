@@ -13,6 +13,14 @@ A messy data frame about shark attacks was provided where the techniques were ap
 - [Kaggle](https://www.kaggle.com/teajay/global-shark-attacks)
 - [Global shark attack website](http://www.sharkattackfile.net/)
 
+## Process
+
+* Removing unnecessary columns
+* Droping rows with more than 10 missing columns 
+* Droping duplicate rows
+* Formating hour, age and year columns correctly
+* Statistical analysis describing the cleaned data frame
+
 ## Conclusion
 
 * Most cases happened in 2015.
